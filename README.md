@@ -1,4 +1,4 @@
-# react30_4_user_feed_app
+# react30_5_image_gallery_app
 Image gallery using react.js
 
 ### Objective:
