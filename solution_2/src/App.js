@@ -19,10 +19,7 @@ function App() {
 
   const photoList = photos.map((image) => {
     return (
-      <div className="photos" key={image.id}>
-
-        <img style={{ width: 45 + "vh" }} src={image.download_url} alt=""></img>
-      </div>
+      <img key={image.id} src={image.download_url} alt={`image_${image.id}`} />
     )
   })
   return (
@@ -30,7 +27,7 @@ function App() {
       <nav className="navbar navbar-dark bg-dark">
         <div className="w-100 text-light">Image Gallery</div>
       </nav>
-      <div >
+      <div className="photos">
         {photoList}
       </div>
     </div>

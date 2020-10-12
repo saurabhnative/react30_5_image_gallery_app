@@ -37,12 +37,21 @@
   }
 }
 
+body {
+  background: wheat;
+}
+
 .photos {
   display: grid;
-  grid-gap: 20px;
-  grid-template-columns: repeat(auto-fill, max(200px, 1fr));
-  padding: 40px;
+  grid-gap: 10px;
+  grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+  justify-content: center;
+}
 
-
+img {
+  margin: 20px;
+  width: 35vh;
+  border: 1px solid black;
+  border-radius: 5px;
 
 }
