@@ -12,6 +12,11 @@ https://picsum.photos/v2/list
 How to use `useEffect` hook in react.js and how to make API calls in client side  
 How to build image gallery using react.js
 
+
+### Learning Resources     
+[How to make API CALLS in React Js](https://reactjs.org/docs/faq-ajax.html)     
+
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -36,6 +41,3 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.<br />
 Your app is ready to be deployed!
-
-How to make API CALLS in React Js
-https://reactjs.org/docs/faq-ajax.html
