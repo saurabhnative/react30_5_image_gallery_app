@@ -17,6 +17,16 @@ How to build image gallery using react.js
 [How to make API Calls in React Js](https://reactjs.org/docs/faq-ajax.html)     
 [Free video tutorial](https://www.youtube.com/watch?v=U9T6YkEDkMo)
 
+### Solutions
+[Solution 1](https://github.com/codeclassifiers/react30_5_image_gallery_app/tree/master/solution_1)    
+Preview:  
+<img src="https://res.cloudinary.com/dk22rcdch/image/upload/v1602524091/Blogimages/Screenshot_2020-10-12_at_11.02.46_PM_huwkgm.png" height="400" width="600" />    
+
+
+[Solution 2](https://github.com/codeclassifiers/react30_5_image_gallery_app/tree/master/solution_2)   
+Preview:  
+<img src="https://res.cloudinary.com/dk22rcdch/image/upload/v1602524058/Blogimages/Screenshot_2020-10-12_at_11.01.59_PM_fg30j5.png" height="400" width="600" />    
+
 ## Available Scripts
 
 In the project directory, you can run:
