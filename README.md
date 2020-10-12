@@ -12,9 +12,10 @@ https://picsum.photos/v2/list
 How to use `useEffect` hook in react.js and how to make API calls in client side  
 How to build image gallery using react.js
 
-Learning resource to learn React Hooks/ useEffect
-Free video tutorial: https://www.youtube.com/watch?v=U9T6YkEDkMo
-Udemy course (around 13euro) https://www.udemy.com/course/react-the-complete-guide-incl-redux/
+
+### Learning Resources     
+[How to make API CALLS in React Js](https://reactjs.org/docs/faq-ajax.html)     
+[Free video tutorial](https://www.youtube.com/watch?v=U9T6YkEDkMo)
 
 ## Available Scripts
 
