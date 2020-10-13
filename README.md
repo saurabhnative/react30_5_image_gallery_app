@@ -1,6 +1,6 @@
 # react30_5_image_gallery_app
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Image gallery using react.js
 
@@ -68,6 +68,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://agrawalsanskar.tk/"><img src="https://avatars3.githubusercontent.com/u/47533723?v=4" width="100px;" alt=""/><br /><sub><b>Sanskar Agrawal</b></sub></a><br /><a href="https://github.com/codeclassifiers/react30_5_image_gallery_app/commits?author=sanskar2999" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/ZsuzsaMano"><img src="https://avatars3.githubusercontent.com/u/51864343?v=4" width="100px;" alt=""/><br /><sub><b>Zsuzsa Lukacs</b></sub></a><br /><a href="#projectManagement-ZsuzsaMano" title="Project Management">📆</a></td>
   </tr>
 </table>
 
