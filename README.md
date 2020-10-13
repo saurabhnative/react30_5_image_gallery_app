@@ -19,16 +19,14 @@ How to build image gallery using react.js
 
 ### Solutions
 [Solution 1](https://github.com/codeclassifiers/react30_5_image_gallery_app/tree/master/solution_1)    
-Preview:  
-<img src="https://res.cloudinary.com/dk22rcdch/image/upload/v1602524091/Blogimages/Screenshot_2020-10-12_at_11.02.46_PM_huwkgm.png" height="400" width="600" />    
-
-
+  
+<img src="https://res.cloudinary.com/dk22rcdch/image/upload/v1602524091/Blogimages/Screenshot_2020-10-12_at_11.02.46_PM_huwkgm.png" height="540" width="960" />    
 [Solution 2](https://github.com/codeclassifiers/react30_5_image_gallery_app/tree/master/solution_2)   
-Preview:  
-<img src="https://res.cloudinary.com/dk22rcdch/image/upload/v1602524058/Blogimages/Screenshot_2020-10-12_at_11.01.59_PM_fg30j5.png" height="400" width="600" />    
-[Solution 3](https://github.com/ZsuzsaMano/react30_5_image_gallery_app/tree/css-by-zsuzsa/solution_3)
-Preview   
-<img src="https://res.cloudinary.com/dk22rcdch/image/upload/v1602560542/Blogimages/sol3.001_rpxrq4.jpg" height="400" width="600" />  
+  
+<img src="https://res.cloudinary.com/dk22rcdch/image/upload/v1602524058/Blogimages/Screenshot_2020-10-12_at_11.01.59_PM_fg30j5.png" height="540" width="960" />    
+[Solution 3](https://github.com/ZsuzsaMano/react30_5_image_gallery_app/tree/css-by-zsuzsa/solution_3)  
+  
+<img src="https://res.cloudinary.com/dk22rcdch/image/upload/v1602560542/Blogimages/sol3.001_rpxrq4.jpg" height="540" width="960" />  
 
 ## Available Scripts
 
