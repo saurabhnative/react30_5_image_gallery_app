@@ -1,6 +1,6 @@
 # react30_5_image_gallery_app
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Image gallery using react.js
 
@@ -18,8 +18,11 @@ How to build image gallery using react.js
 
 ### Learning Resources     
 [How to make API Calls in React Js](https://reactjs.org/docs/faq-ajax.html)     
-[Free video tutorial](https://www.youtube.com/watch?v=U9T6YkEDkMo)
-[Consuming REST APIs In React With Fetch And Axios](https://www.smashingmagazine.com/2020/06/rest-api-react-fetch-axios/)     
+[Free video tutorial](https://www.youtube.com/watch?v=U9T6YkEDkMo)  
+[Get Bootstrap](https://getbootstrap.com/)  
+[Learn Bootstrap in 5 minutes](https://www.youtube.com/watch?v=yalxT0PEx8c)  
+[Bootstrap Grid System](https://www.w3schools.com/bootstrap/bootstrap_grid_system.asp)  
+[Consuming REST APIs In React With Fetch And Axios](https://www.smashingmagazine.com/2020/06/rest-api-react-fetch-axios/)       
 
 ### Solutions
 [Solution 1](https://github.com/codeclassifiers/react30_5_image_gallery_app/tree/master/solution_1)    
@@ -71,6 +74,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://agrawalsanskar.tk/"><img src="https://avatars3.githubusercontent.com/u/47533723?v=4" width="100px;" alt=""/><br /><sub><b>Sanskar Agrawal</b></sub></a><br /><a href="https://github.com/codeclassifiers/react30_5_image_gallery_app/commits?author=sanskar2999" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/ZsuzsaMano"><img src="https://avatars3.githubusercontent.com/u/51864343?v=4" width="100px;" alt=""/><br /><sub><b>Zsuzsa Lukacs</b></sub></a><br /><a href="#projectManagement-ZsuzsaMano" title="Project Management">📆</a></td>
     <td align="center"><a href="https://github.com/ellu-laitinen"><img src="https://avatars1.githubusercontent.com/u/59651879?v=4" width="100px;" alt=""/><br /><sub><b>ellu-laitinen</b></sub></a><br /><a href="#projectManagement-ellu-laitinen" title="Project Management">📆</a></td>
+    <td align="center"><a href="http://www.londontran.com"><img src="https://avatars2.githubusercontent.com/u/55134653?v=4" width="100px;" alt=""/><br /><sub><b>London Tran</b></sub></a><br /><a href="https://github.com/codeclassifiers/react30_5_image_gallery_app/commits?author=LondonTran" title="Documentation">📖</a></td>
   </tr>
 </table>
 

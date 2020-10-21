@@ -31,6 +31,15 @@
       "contributions": [
         "projectManagement"
       ]
+    },
+    {
+      "login": "LondonTran",
+      "name": "London Tran",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/55134653?v=4",
+      "profile": "http://www.londontran.com",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
