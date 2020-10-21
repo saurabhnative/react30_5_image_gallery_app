@@ -19,6 +19,7 @@ How to build image gallery using react.js
 ### Learning Resources     
 [How to make API Calls in React Js](https://reactjs.org/docs/faq-ajax.html)     
 [Free video tutorial](https://www.youtube.com/watch?v=U9T6YkEDkMo)
+[Consuming REST APIs In React With Fetch And Axios](https://www.smashingmagazine.com/2020/06/rest-api-react-fetch-axios/)     
 
 ### Solutions
 [Solution 1](https://github.com/codeclassifiers/react30_5_image_gallery_app/tree/master/solution_1)    
