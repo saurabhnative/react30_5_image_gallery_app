@@ -1,6 +1,6 @@
 # react30_5_image_gallery_app
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Image gallery using react.js
 
@@ -75,6 +75,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/ZsuzsaMano"><img src="https://avatars3.githubusercontent.com/u/51864343?v=4" width="100px;" alt=""/><br /><sub><b>Zsuzsa Lukacs</b></sub></a><br /><a href="#projectManagement-ZsuzsaMano" title="Project Management">📆</a></td>
     <td align="center"><a href="https://github.com/ellu-laitinen"><img src="https://avatars1.githubusercontent.com/u/59651879?v=4" width="100px;" alt=""/><br /><sub><b>ellu-laitinen</b></sub></a><br /><a href="#projectManagement-ellu-laitinen" title="Project Management">📆</a></td>
     <td align="center"><a href="http://www.londontran.com"><img src="https://avatars2.githubusercontent.com/u/55134653?v=4" width="100px;" alt=""/><br /><sub><b>London Tran</b></sub></a><br /><a href="https://github.com/codeclassifiers/react30_5_image_gallery_app/commits?author=LondonTran" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/loganlokku"><img src="https://avatars0.githubusercontent.com/u/50902574?v=4" width="100px;" alt=""/><br /><sub><b>Sooriyakumar Loganathan</b></sub></a><br /><a href="https://github.com/codeclassifiers/react30_5_image_gallery_app/commits?author=loganlokku" title="Documentation">📖</a></td>
   </tr>
 </table>
 
