@@ -19,9 +19,9 @@ How to build image gallery using react.js
 ### Learning Resources     
 [How to make API Calls in React Js](https://reactjs.org/docs/faq-ajax.html)     
 [Free video tutorial](https://www.youtube.com/watch?v=U9T6YkEDkMo)
-[Get Bootstrap](https://getbootstrap.com/)
-[Learn Bootstrap in 5 minutes](https://www.youtube.com/watch?v=yalxT0PEx8c)
-[Bootstrap Grid System](https://www.w3schools.com/bootstrap/bootstrap_grid_system.asp)
+[Get Bootstrap](https://getbootstrap.com/)  
+[Learn Bootstrap in 5 minutes](https://www.youtube.com/watch?v=yalxT0PEx8c)  
+[Bootstrap Grid System](https://www.w3schools.com/bootstrap/bootstrap_grid_system.asp)  
 
 
 ### Solutions
